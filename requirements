@@ -10,3 +10,4 @@ celery
 redis
 eventlet
 django-celery-beat
+requests
