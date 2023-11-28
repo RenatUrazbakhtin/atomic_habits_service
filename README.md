@@ -7,7 +7,7 @@
 
 ## Технологии
 - Python
-- Poetry
+- Pip
 - Django
 - DRF
 - PostgreSQL
